@@ -58,8 +58,7 @@ KCBench/
 
 For detailed error information including error lines, variables, and reasons for all 100 projects, please see:
 
-- [Complete Error Summary (English)](Complete_Error_Summary_EN.md)
-- [完整错误汇总 (中文)](Complete_Error_Summary.md)
+- [Complete Error Summary](KCBench/Complete_Error_Summary.md)
 
 ## Usage
 
